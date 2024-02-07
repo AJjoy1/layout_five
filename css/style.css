@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    background-color: aqua;
+    color: blue;
+    font-size: larger;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: blueviolet;
+    color: black;
+    font-size: larger;
+    height: 100px;
+    text-align: center;
+}
+.detials{
+    display: flex;
+}
+.left_side{
+    background-color: chartreuse;
+    width: 25%;
+    height: 500px;
+}
+.right_side{
+    background-color: crimson;
+    width: 75%;
+    height: 500px;
+}
+.top{
+    background-color: rgba(220, 20, 60, 0.397);
+    height: 150px;
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+.bottom{
+    background-color: rgba(50, 204, 158, 0.548);
+    height: 350px;
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+.Aside{
+    background-color: gold;
+    height: 300px;
+    text-align: center;
+    font-size: larger;
+    color: black;
+}.R_side{
+    display: flex;
+
+}
+.Bside{
+    background-color: grey;
+    width: 70%;
+    text-align: center;
+    color: #000;
+    font-size: larger;
+    height: 200px;
+}
+.Cside{
+    background-color: deeppink;
+    width: 30%;
+    text-align: center;
+    color: #000;
+    font-size: larger;
+    height: 200px;
+}
+.footer{
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+    height: 100px;
+    
+}
+}
